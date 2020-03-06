@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>Shopping Item quantity</name>
+        <parent>ab43294f1bdb8010c401fc88cc4bcb81</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-06 15:43:06</sys_created_on>
+        <sys_id>0d0921c31b1f8010c401fc88cc4bcb6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shopping Item quantity</sys_name>
+        <sys_package display_value="Shopping List" source="x_455719_shopping">72112dc71bdb8010c401fc88cc4bcb46</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">72112dc71bdb8010c401fc88cc4bcb46</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_0d0921c31b1f8010c401fc88cc4bcb6e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-06 15:43:06</sys_updated_on>
+        <type>integer</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping List">72112dc71bdb8010c401fc88cc4bcb46</application>
+        <file_path/>
+        <instance_id>ceec90bddb98b70052dd2f17d4961944</instance_id>
+        <instance_name>dev76239</instance_name>
+        <name>sys_sg_item_parameter_0d0921c31b1f8010c401fc88cc4bcb6e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>Shopping Item quantity</name><parent>ab43294f1bdb8010c401fc88cc4bcb81</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-06 15:43:06</sys_created_on><sys_id>0d0921c31b1f8010c401fc88cc4bcb6e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Shopping Item quantity</sys_name><sys_package display_value="Shopping List" source="x_455719_shopping">72112dc71bdb8010c401fc88cc4bcb46</sys_package><sys_policy/><sys_scope display_value="Shopping List">72112dc71bdb8010c401fc88cc4bcb46</sys_scope><sys_update_name>sys_sg_item_parameter_0d0921c31b1f8010c401fc88cc4bcb6e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-06 15:43:06</sys_updated_on><type>integer</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>1820046195</payload_hash>
+        <record_name>Shopping Item quantity</record_name>
+        <reverted_from/>
+        <source>3a112dc71bdb8010c401fc88cc4bcb48</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-06 15:43:06</sys_created_on>
+        <sys_id>8509e5c31b1f8010c401fc88cc4bcb63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170b083b6cc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-06 15:43:06</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>850921c3e41f8010f08a62e111b1c470</update_guid>
+        <update_guid_history>850921c3e41f8010f08a62e111b1c470:1820046195</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-06 15:44:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>c3517303965e4fb39835ce38536af3f9</sys_id>
+        <sys_metadata>0d0921c31b1f8010c401fc88cc4bcb6e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shopping Item quantity</sys_name>
+        <sys_package display_value="Shopping List" source="x_455719_shopping">72112dc71bdb8010c401fc88cc4bcb46</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">72112dc71bdb8010c401fc88cc4bcb46</sys_scope>
+        <sys_scope_delete display_value="">a8df55f33399426cbeefed53ea12e5b9</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_0d0921c31b1f8010c401fc88cc4bcb6e</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_0d0921c31b1f8010c401fc88cc4bcb6e">8509e5c31b1f8010c401fc88cc4bcb63</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-06 15:44:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
